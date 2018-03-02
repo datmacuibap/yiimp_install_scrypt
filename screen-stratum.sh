@@ -10,4 +10,35 @@
  screen -dmS skein $STRATUM_DIR/run.sh skein
  screen -dmS x11 $STRATUM_DIR/run.sh x11
  screen -dmS xevan $STRATUM_DIR/run.sh xevan
- 
+ screen -dmS yescryptR16 $STRATUM_DIR/run.sh yescryptR16
+ screen -dmS yescrypt $STRATUM_DIR/run.sh yescrypt
+ screen -dmS x17 $STRATUM_DIR/run.sh x17
+ screen -dmS x13 $STRATUM_DIR/run.sh x13
+ screen -dmS x15 $STRATUM_DIR/run.sh x15
+ screen -dmS x14 $STRATUM_DIR/run.sh x14
+ screen -dmS x16r $STRATUM_DIR/run.sh x16r
+ screen -dmS x11evo $STRATUM_DIR/run.sh x11evo
+ screen -dmS whirlpool $STRATUM_DIR/run.sh whirlpool
+ screen -dmS timetravel $STRATUM_DIR/run.sh timetravel
+ screen -dmS skunk $STRATUM_DIR/run.sh skunk
+ screen -dmS sib $STRATUM_DIR/run.sh sib
+ screen -dmS sha256t $STRATUM_DIR/run.sh sha256t
+ screen -dmS sha256 $STRATUM_DIR/run.sh sha
+ screen -dmS scryptn $STRATUM_DIR/run.sh scryptn
+ screen -dmS qubit $STRATUM_DIR/run.sh qubit
+ screen -dmS polytimos $STRATUM_DIR/run.sh polytimos
+ screen -dmS phi $STRATUM_DIR/run.sh phi
+ screen -dmS myr-gr $STRATUM_DIR/run.sh myr-gr
+ screen -dmS lyra2z $STRATUM_DIR/run.sh lyra2z
+ screen -dmS lyra2v2 $STRATUM_DIR/run.sh lyra2v2
+ screen -dmS lyra2 $STRATUM_DIR/run.sh lyra2
+ screen -dmS lbry $STRATUM_DIR/run.sh lbry
+ screen -dmS keccakc $STRATUM_DIR/run.sh keccakc
+ screen -dmS dmd-gr $STRATUM_DIR/run.sh dmd-gr
+ screen -dmS decred $STRATUM_DIR/run.sh decred
+ screen -dmS c11 $STRATUM_DIR/run.sh c11
+ screen -dmS blakecoin $STRATUM_DIR/run.sh blakecoin
+ screen -dmS blake2s $STRATUM_DIR/run.sh blake2s
+ screen -dmS blake $STRATUM_DIR/run.sh blake
+ screen -dmS a5a $STRATUM_DIR/run.sh a5a
+ screen -dmS argon2 $STRATUM_DIR/run.sh argon2
